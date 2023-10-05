@@ -1,0 +1,2 @@
+name="yusuf"
+print (name)
