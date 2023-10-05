@@ -1,2 +1,1 @@
-name="yusuf"
-print (name)
+print("cfhg")
