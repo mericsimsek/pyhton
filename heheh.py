@@ -1,0 +1,2 @@
+hehe="heheheh"
+print(hehe)
