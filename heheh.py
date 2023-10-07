@@ -1,2 +1,0 @@
-hehe="heheheh"
-print(hehe)
